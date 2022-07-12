@@ -1,0 +1,13 @@
+body {
+  background-color: green;
+}
+.bg-box {
+  width: 100%;
+  height: 100vh;
+  background: url(lamp-png-0.png) left 50% top 0px / auto 75px repeat-x,
+    url(grass-png-images-pictures-transparent-28.png) left 50% bottom 0 / auto
+      250px repeat-x,
+    url(dom.jpg) left 50% center / auto 400px no-repeat,
+    url(58eb07b830eab15b56162788.png) right 0px / auto 25px repeat-y,
+    url(esh.webp) left 0px / auto 25px repeat-y;
+}

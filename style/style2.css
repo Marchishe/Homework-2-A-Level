@@ -1,0 +1,26 @@
+a[href^='https://']
+{
+  color: red;
+}
+.list > li:last-child {
+  background-color: chartreuse;
+}
+
+.text {
+  font-size: 28px;
+}
+#greycol {
+  color: grey;
+}
+.yellow {
+  color: yellow;
+}
+div ~ p {
+  color: green;
+}
+h3:first-of-type {
+  color: pink;
+}
+p:only-child {
+  color: red;
+}
